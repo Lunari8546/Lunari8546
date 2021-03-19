@@ -7,8 +7,8 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img alt="Lunari8546's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Lunari8546&theme=material-palenight"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lunari8546&theme=material-palenight&hide=HTML,CSS"/>
   </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lunari8546&theme=material-palenight&hide=HTML,CSS"/>
 </p>
   
 <hr>
